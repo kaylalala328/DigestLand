@@ -1,0 +1,2305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Button\Back.png</Source>
+      <Name>Button\Back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\Back.xnb</Output>
+      <Time>2016-11-29T19:04:46.3514989+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\BackButton.png</Source>
+      <Name>Button\BackButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\BackButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3514989+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\BackButton113x103.png</Source>
+      <Name>Button\BackButton113x103</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\BackButton113x103.xnb</Output>
+      <Time>2016-11-29T19:04:46.3671264+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\Button.png</Source>
+      <Name>Button\Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\Button.xnb</Output>
+      <Time>2016-11-29T19:04:46.3671264+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ChallengeModeButton.png</Source>
+      <Name>Button\ChallengeModeButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ChallengeModeButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3671264+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedBackButton.png</Source>
+      <Name>Button\ClickedBackButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedBackButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3671264+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedButton.png</Source>
+      <Name>Button\ClickedButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3671264+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedChallengeModeButton.png</Source>
+      <Name>Button\ClickedChallengeModeButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedChallengeModeButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3671264+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedCollectionButton.png</Source>
+      <Name>Button\ClickedCollectionButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedCollectionButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3671264+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedCollectionButton_OP.png</Source>
+      <Name>Button\ClickedCollectionButton_OP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedCollectionButton_OP.xnb</Output>
+      <Time>2016-11-29T19:04:46.3671264+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedCreaterButton.png</Source>
+      <Name>Button\ClickedCreaterButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedCreaterButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3671264+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedDuodenumButton.png</Source>
+      <Name>Button\ClickedDuodenumButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedDuodenumButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2577458+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedDuodenumTutorialButto.png</Source>
+      <Name>Button\ClickedDuodenumTutorialButto</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedDuodenumTutorialButto.xnb</Output>
+      <Time>2016-11-29T19:04:46.2577458+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedDuodenumTutorialButton.png</Source>
+      <Name>Button\ClickedDuodenumTutorialButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedDuodenumTutorialButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2733763+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedGulletButton.png</Source>
+      <Name>Button\ClickedGulletButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedGulletButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2733763+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedGulletTutorialButton.png</Source>
+      <Name>Button\ClickedGulletTutorialButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedGulletTutorialButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2733763+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedHomeButton.png</Source>
+      <Name>Button\ClickedHomeButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedHomeButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2733763+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedKeyboardButton.png</Source>
+      <Name>Button\ClickedKeyboardButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedKeyboardButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2733763+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedLargeIntestineButton.png</Source>
+      <Name>Button\ClickedLargeIntestineButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedLargeIntestineButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2733763+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedLargeIntestineTutorialButton.png</Source>
+      <Name>Button\ClickedLargeIntestineTutorialButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedLargeIntestineTutorialButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2733763+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedMouthButton.png</Source>
+      <Name>Button\ClickedMouthButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedMouthButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2733763+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedMouthTutorialButton.png</Source>
+      <Name>Button\ClickedMouthTutorialButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedMouthTutorialButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2889927+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedOptionButton.png</Source>
+      <Name>Button\ClickedOptionButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedOptionButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2889927+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedReplayButton.png</Source>
+      <Name>Button\ClickedReplayButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedReplayButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2889927+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedSkipButton.png</Source>
+      <Name>Button\ClickedSkipButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedSkipButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2889927+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedSmallIntestineButton.png</Source>
+      <Name>Button\ClickedSmallIntestineButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedSmallIntestineButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2889927+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedSmallIntestineTutorialButton.png</Source>
+      <Name>Button\ClickedSmallIntestineTutorialButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedSmallIntestineTutorialButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2889927+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedSoundButton.png</Source>
+      <Name>Button\ClickedSoundButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedSoundButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2889927+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedStartButton.png</Source>
+      <Name>Button\ClickedStartButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedStartButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2889927+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedStepSelectionButton.png</Source>
+      <Name>Button\ClickedStepSelectionButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedStepSelectionButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2889927+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedStickerButton.png</Source>
+      <Name>Button\ClickedStickerButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedStickerButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.2889927+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedStomachButton.png</Source>
+      <Name>Button\ClickedStomachButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedStomachButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.304619+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedStomachTutorialButton.png</Source>
+      <Name>Button\ClickedStomachTutorialButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedStomachTutorialButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.304619+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedTutorialButton.png</Source>
+      <Name>Button\ClickedTutorialButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedTutorialButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.304619+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedTutorialModeButton.png</Source>
+      <Name>Button\ClickedTutorialModeButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedTutorialModeButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.304619+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ClickedXButton.png</Source>
+      <Name>Button\ClickedXButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ClickedXButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.304619+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\CollectionButton.png</Source>
+      <Name>Button\CollectionButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\CollectionButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.304619+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\CollectionButton_OP.png</Source>
+      <Name>Button\CollectionButton_OP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\CollectionButton_OP.xnb</Output>
+      <Time>2016-11-29T19:04:46.304619+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\CreaterButton.png</Source>
+      <Name>Button\CreaterButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\CreaterButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.304619+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\DuodenumButton.png</Source>
+      <Name>Button\DuodenumButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\DuodenumButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.304619+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\DuodenumTutorialButton.png</Source>
+      <Name>Button\DuodenumTutorialButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\DuodenumTutorialButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.304619+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\GulletButton.png</Source>
+      <Name>Button\GulletButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\GulletButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.304619+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\GulletTutorialButton.png</Source>
+      <Name>Button\GulletTutorialButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\GulletTutorialButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3202482+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\HomeButton.png</Source>
+      <Name>Button\HomeButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\HomeButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3202482+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\Keyboard.png</Source>
+      <Name>Button\Keyboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\Keyboard.xnb</Output>
+      <Time>2016-11-29T19:04:46.3202482+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\KeyboardButton.png</Source>
+      <Name>Button\KeyboardButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\KeyboardButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3202482+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\LargeIntestineButton.png</Source>
+      <Name>Button\LargeIntestineButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\LargeIntestineButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3202482+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\LargeIntestineTutorialButton.png</Source>
+      <Name>Button\LargeIntestineTutorialButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\LargeIntestineTutorialButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3202482+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\LockedChallengeMode.png</Source>
+      <Name>Button\LockedChallengeMode</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\LockedChallengeMode.xnb</Output>
+      <Time>2016-11-29T19:04:46.3202482+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\MouthButton.png</Source>
+      <Name>Button\MouthButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\MouthButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3202482+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\MouthTutorial1.png</Source>
+      <Name>Button\MouthTutorial1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\MouthTutorial1.xnb</Output>
+      <Time>2016-11-29T19:04:46.3202482+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\MouthTutorial2.png</Source>
+      <Name>Button\MouthTutorial2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\MouthTutorial2.xnb</Output>
+      <Time>2016-11-29T19:04:46.3202482+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\MouthTutorial3.png</Source>
+      <Name>Button\MouthTutorial3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\MouthTutorial3.xnb</Output>
+      <Time>2016-11-29T19:04:46.3202482+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\MouthTutorialButton.png</Source>
+      <Name>Button\MouthTutorialButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\MouthTutorialButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3358731+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\OffButton.png</Source>
+      <Name>Button\OffButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\OffButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3358731+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\OnButton.png</Source>
+      <Name>Button\OnButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\OnButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3358731+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\OptionButton.png</Source>
+      <Name>Button\OptionButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\OptionButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3358731+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\OptionWindow.png</Source>
+      <Name>Button\OptionWindow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\OptionWindow.xnb</Output>
+      <Time>2016-11-29T19:04:46.3358731+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\PauseBackground.png</Source>
+      <Name>Button\PauseBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\PauseBackground.xnb</Output>
+      <Time>2016-11-29T19:04:46.3358731+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ReplayButton.png</Source>
+      <Name>Button\ReplayButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\ReplayButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3358731+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\SkipButton.png</Source>
+      <Name>Button\SkipButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\SkipButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3358731+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\SmallIntestineButton.png</Source>
+      <Name>Button\SmallIntestineButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\SmallIntestineButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3358731+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\SmallIntestineTutorialButton.png</Source>
+      <Name>Button\SmallIntestineTutorialButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\SmallIntestineTutorialButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3358731+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\SoundButton.png</Source>
+      <Name>Button\SoundButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\SoundButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3358731+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\StartButton.png</Source>
+      <Name>Button\StartButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\StartButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3358731+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\StepSelectionButton.png</Source>
+      <Name>Button\StepSelectionButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\StepSelectionButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3514989+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\StickerButton.png</Source>
+      <Name>Button\StickerButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\StickerButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3514989+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\StomachButton.png</Source>
+      <Name>Button\StomachButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\StomachButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3514989+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\StomachTutorialButton.png</Source>
+      <Name>Button\StomachTutorialButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\StomachTutorialButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3514989+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\TutorialButton.png</Source>
+      <Name>Button\TutorialButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\TutorialButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3514989+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\TutorialModeButton.png</Source>
+      <Name>Button\TutorialModeButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\TutorialModeButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3514989+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\TutorialStepSelectionScreen.png</Source>
+      <Name>Button\TutorialStepSelectionScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\TutorialStepSelectionScreen.xnb</Output>
+      <Time>2016-11-29T19:04:46.3514989+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\XButton.png</Source>
+      <Name>Button\XButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Button\XButton.xnb</Output>
+      <Time>2016-11-29T19:04:46.3514989+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\AboutScreen.png</Source>
+      <Name>ScreenImage\AboutScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\AboutScreen.xnb</Output>
+      <Time>2016-11-29T19:05:04.9389908+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\ChallengeModeScreen.png</Source>
+      <Name>ScreenImage\ChallengeModeScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\ChallengeModeScreen.xnb</Output>
+      <Time>2016-11-29T19:05:04.9389908+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\CollectionState.png</Source>
+      <Name>ScreenImage\CollectionState</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\CollectionState.xnb</Output>
+      <Time>2016-11-29T19:05:04.9389908+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\CreaterScreen.png</Source>
+      <Name>ScreenImage\CreaterScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\CreaterScreen.xnb</Output>
+      <Time>2016-11-29T19:05:04.9389908+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\DuodenumScreen.png</Source>
+      <Name>ScreenImage\DuodenumScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\DuodenumScreen.xnb</Output>
+      <Time>2016-11-29T19:05:04.9389908+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\GameScreen.png</Source>
+      <Name>ScreenImage\GameScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\GameScreen.xnb</Output>
+      <Time>2016-11-29T19:05:04.9389908+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\GulletScreen.png</Source>
+      <Name>ScreenImage\GulletScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\GulletScreen.xnb</Output>
+      <Time>2016-11-29T19:05:04.9389908+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\LargeIntestineScreen.png</Source>
+      <Name>ScreenImage\LargeIntestineScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\LargeIntestineScreen.xnb</Output>
+      <Time>2016-11-29T19:05:04.9389908+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\ModeSelctionState.png</Source>
+      <Name>ScreenImage\ModeSelctionState</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\ModeSelctionState.xnb</Output>
+      <Time>2016-11-29T19:05:04.9389908+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\ModeSelectionScreen.png</Source>
+      <Name>ScreenImage\ModeSelectionScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\ModeSelectionScreen.xnb</Output>
+      <Time>2016-11-29T19:05:04.9546179+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\MouthScreen.png</Source>
+      <Name>ScreenImage\MouthScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\MouthScreen.xnb</Output>
+      <Time>2016-11-29T19:05:04.9077371+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\OptionScreen.png</Source>
+      <Name>ScreenImage\OptionScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\OptionScreen.xnb</Output>
+      <Time>2016-11-29T19:05:04.9077371+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\OptionWindow.png</Source>
+      <Name>ScreenImage\OptionWindow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\OptionWindow.xnb</Output>
+      <Time>2016-11-29T19:05:04.9233668+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\SmallIntestineScreen.png</Source>
+      <Name>ScreenImage\SmallIntestineScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\SmallIntestineScreen.xnb</Output>
+      <Time>2016-11-29T19:05:04.9233668+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\StickerScreen.png</Source>
+      <Name>ScreenImage\StickerScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\StickerScreen.xnb</Output>
+      <Time>2016-11-29T19:05:04.9233668+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\StomachScreen.png</Source>
+      <Name>ScreenImage\StomachScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\StomachScreen.xnb</Output>
+      <Time>2016-11-29T19:05:04.9233668+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\Tutorial.png</Source>
+      <Name>ScreenImage\Tutorial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\Tutorial.xnb</Output>
+      <Time>2016-11-29T19:05:04.9233668+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\TutorialColorBackground.png</Source>
+      <Name>ScreenImage\TutorialColorBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\TutorialColorBackground.xnb</Output>
+      <Time>2016-11-29T19:05:04.9233668+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\TutorialModeScreen.png</Source>
+      <Name>ScreenImage\TutorialModeScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\TutorialModeScreen.xnb</Output>
+      <Time>2016-11-29T19:05:04.9233668+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\TutorialStepSelectionScreen.png</Source>
+      <Name>ScreenImage\TutorialStepSelectionScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\TutorialStepSelectionScreen.xnb</Output>
+      <Time>2016-11-29T19:05:04.9233668+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreenImage\TutorialStoryScreen.png</Source>
+      <Name>ScreenImage\TutorialStoryScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ScreenImage\TutorialStoryScreen.xnb</Output>
+      <Time>2016-11-29T19:05:04.9389908+09:00</Time>
+    </Item>
+    <Item>
+      <Source>기본맵\기본소장.png</Source>
+      <Name>기본맵\기본소장</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\기본맵\기본소장.xnb</Output>
+      <Time>2016-11-29T19:05:12.6643561+09:00</Time>
+    </Item>
+    <Item>
+      <Source>기본맵\기본십이지장.png</Source>
+      <Name>기본맵\기본십이지장</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\기본맵\기본십이지장.xnb</Output>
+      <Time>2016-11-29T19:05:12.6643561+09:00</Time>
+    </Item>
+    <Item>
+      <Source>기본맵\기본위.png</Source>
+      <Name>기본맵\기본위</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\기본맵\기본위.xnb</Output>
+      <Time>2016-11-29T19:05:12.6799734+09:00</Time>
+    </Item>
+    <Item>
+      <Source>기본맵\기본입.png</Source>
+      <Name>기본맵\기본입</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\기본맵\기본입.xnb</Output>
+      <Time>2016-11-29T19:05:12.6799734+09:00</Time>
+    </Item>
+    <Item>
+      <Source>기본맵\식도1.png</Source>
+      <Name>기본맵\식도1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\기본맵\식도1.xnb</Output>
+      <Time>2016-11-29T19:05:12.6799734+09:00</Time>
+    </Item>
+    <Item>
+      <Source>기본맵\식도10.png</Source>
+      <Name>기본맵\식도10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\기본맵\식도10.xnb</Output>
+      <Time>2016-11-29T19:05:12.6643561+09:00</Time>
+    </Item>
+    <Item>
+      <Source>기본맵\식도11.png</Source>
+      <Name>기본맵\식도11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\기본맵\식도11.xnb</Output>
+      <Time>2016-11-29T19:05:12.6643561+09:00</Time>
+    </Item>
+    <Item>
+      <Source>기본맵\식도12.png</Source>
+      <Name>기본맵\식도12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\기본맵\식도12.xnb</Output>
+      <Time>2016-11-29T19:05:12.6643561+09:00</Time>
+    </Item>
+    <Item>
+      <Source>기본맵\식도2.png</Source>
+      <Name>기본맵\식도2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\기본맵\식도2.xnb</Output>
+      <Time>2016-11-29T19:05:12.6799734+09:00</Time>
+    </Item>
+    <Item>
+      <Source>기본맵\식도3.png</Source>
+      <Name>기본맵\식도3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\기본맵\식도3.xnb</Output>
+      <Time>2016-11-29T19:05:12.6799734+09:00</Time>
+    </Item>
+    <Item>
+      <Source>기본맵\식도4.png</Source>
+      <Name>기본맵\식도4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\기본맵\식도4.xnb</Output>
+      <Time>2016-11-29T19:05:12.6799734+09:00</Time>
+    </Item>
+    <Item>
+      <Source>기본맵\식도5.png</Source>
+      <Name>기본맵\식도5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\기본맵\식도5.xnb</Output>
+      <Time>2016-11-29T19:05:12.6799734+09:00</Time>
+    </Item>
+    <Item>
+      <Source>기본맵\식도6.png</Source>
+      <Name>기본맵\식도6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\기본맵\식도6.xnb</Output>
+      <Time>2016-11-29T19:05:12.6799734+09:00</Time>
+    </Item>
+    <Item>
+      <Source>기본맵\식도7.png</Source>
+      <Name>기본맵\식도7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\기본맵\식도7.xnb</Output>
+      <Time>2016-11-29T19:05:12.6799734+09:00</Time>
+    </Item>
+    <Item>
+      <Source>기본맵\식도8.png</Source>
+      <Name>기본맵\식도8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\기본맵\식도8.xnb</Output>
+      <Time>2016-11-29T19:05:12.6956+09:00</Time>
+    </Item>
+    <Item>
+      <Source>기본맵\식도9.png</Source>
+      <Name>기본맵\식도9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\기본맵\식도9.xnb</Output>
+      <Time>2016-11-29T19:05:12.6643561+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\count1.png</Source>
+      <Name>식도\count1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\count1.xnb</Output>
+      <Time>2016-11-29T19:05:25.0965727+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\count2.png</Source>
+      <Name>식도\count2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\count2.xnb</Output>
+      <Time>2016-11-29T19:05:25.1121998+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\count3.png</Source>
+      <Name>식도\count3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\count3.xnb</Output>
+      <Time>2016-11-29T19:05:25.1121998+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\effect.png</Source>
+      <Name>식도\effect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\effect.xnb</Output>
+      <Time>2016-11-29T19:05:25.0653344+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\E_off.png</Source>
+      <Name>식도\E_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\E_off.xnb</Output>
+      <Time>2016-11-29T19:05:25.1121998+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\E_on.png</Source>
+      <Name>식도\E_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\E_on.xnb</Output>
+      <Time>2016-11-29T19:05:25.0653344+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\gameover.png</Source>
+      <Name>식도\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\gameover.xnb</Output>
+      <Time>2016-11-29T19:05:25.0809473+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\GO.png</Source>
+      <Name>식도\GO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\GO.xnb</Output>
+      <Time>2016-11-29T19:05:25.0809473+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\G_off.png</Source>
+      <Name>식도\G_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\G_off.xnb</Output>
+      <Time>2016-11-29T19:05:25.0653344+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\G_on.png</Source>
+      <Name>식도\G_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\G_on.xnb</Output>
+      <Time>2016-11-29T19:05:25.0809473+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\heart.jpg</Source>
+      <Name>식도\heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\heart.xnb</Output>
+      <Time>2016-11-29T19:05:25.0809473+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\L_off.png</Source>
+      <Name>식도\L_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\L_off.xnb</Output>
+      <Time>2016-11-29T19:05:25.0809473+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\L_on(1).png</Source>
+      <Name>식도\L_on(1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\L_on(1).xnb</Output>
+      <Time>2016-11-29T19:05:25.0809473+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\L_on(2).png</Source>
+      <Name>식도\L_on(2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\L_on(2).xnb</Output>
+      <Time>2016-11-29T19:05:25.0809473+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\T_off.png</Source>
+      <Name>식도\T_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\T_off.xnb</Output>
+      <Time>2016-11-29T19:05:25.0965727+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\T_on.png</Source>
+      <Name>식도\T_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\T_on.xnb</Output>
+      <Time>2016-11-29T19:05:25.0965727+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\U_off.png</Source>
+      <Name>식도\U_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\U_off.xnb</Output>
+      <Time>2016-11-29T19:05:25.0965727+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\U_on.png</Source>
+      <Name>식도\U_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\U_on.xnb</Output>
+      <Time>2016-11-29T19:05:25.0965727+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\장애물.png</Source>
+      <Name>식도\장애물</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\장애물.xnb</Output>
+      <Time>2016-11-29T19:05:25.0965727+09:00</Time>
+    </Item>
+    <Item>
+      <Source>입\FoodIdle.png</Source>
+      <Name>입\FoodIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\입\FoodIdle.xnb</Output>
+      <Time>2016-11-29T19:05:30.7906898+09:00</Time>
+    </Item>
+    <Item>
+      <Source>입\Mouth.png</Source>
+      <Name>입\Mouth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\입\Mouth.xnb</Output>
+      <Time>2016-11-29T19:05:30.7906898+09:00</Time>
+    </Item>
+    <Item>
+      <Source>입\MouthBackground.png</Source>
+      <Name>입\MouthBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\입\MouthBackground.xnb</Output>
+      <Time>2016-11-29T19:05:30.7906898+09:00</Time>
+    </Item>
+    <Item>
+      <Source>입\Tongue.png</Source>
+      <Name>입\Tongue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\입\Tongue.xnb</Output>
+      <Time>2016-11-29T19:05:30.7906898+09:00</Time>
+    </Item>
+    <Item>
+      <Source>appleremain.png</Source>
+      <Name>appleremain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\appleremain.xnb</Output>
+      <Time>2016-11-29T19:06:11.7362186+09:00</Time>
+    </Item>
+    <Item>
+      <Source>BackButton.png</Source>
+      <Name>BackButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\BackButton.xnb</Output>
+      <Time>2016-11-29T19:06:11.7362186+09:00</Time>
+    </Item>
+    <Item>
+      <Source>BONUS.png</Source>
+      <Name>BONUS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\BONUS.xnb</Output>
+      <Time>2016-11-29T19:06:11.7362186+09:00</Time>
+    </Item>
+    <Item>
+      <Source>CheeseAttack.png</Source>
+      <Name>CheeseAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\CheeseAttack.xnb</Output>
+      <Time>2016-11-29T19:06:11.7362186+09:00</Time>
+    </Item>
+    <Item>
+      <Source>CheeseIdle.png</Source>
+      <Name>CheeseIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\CheeseIdle.xnb</Output>
+      <Time>2016-11-29T19:06:11.7362186+09:00</Time>
+    </Item>
+    <Item>
+      <Source>cheeseremain.png</Source>
+      <Name>cheeseremain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\cheeseremain.xnb</Output>
+      <Time>2016-11-29T19:06:11.7362186+09:00</Time>
+    </Item>
+    <Item>
+      <Source>CLEAR.png</Source>
+      <Name>CLEAR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\CLEAR.xnb</Output>
+      <Time>2016-11-29T19:06:11.7362186+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ClickCursor.png</Source>
+      <Name>ClickCursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ClickCursor.xnb</Output>
+      <Time>2016-11-29T19:06:11.7362186+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ClickedBackButton.png</Source>
+      <Name>ClickedBackButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ClickedBackButton.xnb</Output>
+      <Time>2016-11-29T19:06:11.7362186+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ClickedCreaterButton.png</Source>
+      <Name>ClickedCreaterButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ClickedCreaterButton.xnb</Output>
+      <Time>2016-11-29T19:06:11.7362186+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ClickedOptionButton.png</Source>
+      <Name>ClickedOptionButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ClickedOptionButton.xnb</Output>
+      <Time>2016-11-29T19:06:11.7362186+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ClickedStartButton.png</Source>
+      <Name>ClickedStartButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\ClickedStartButton.xnb</Output>
+      <Time>2016-11-29T19:06:11.7518542+09:00</Time>
+    </Item>
+    <Item>
+      <Source>cloud.png</Source>
+      <Name>cloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\cloud.xnb</Output>
+      <Time>2016-11-29T19:06:11.7518542+09:00</Time>
+    </Item>
+    <Item>
+      <Source>CreaterButton.png</Source>
+      <Name>CreaterButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\CreaterButton.xnb</Output>
+      <Time>2016-11-29T19:06:11.7518542+09:00</Time>
+    </Item>
+    <Item>
+      <Source>DuodenumColorBackground.png</Source>
+      <Name>DuodenumColorBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\DuodenumColorBackground.xnb</Output>
+      <Time>2016-11-29T19:06:11.7518542+09:00</Time>
+    </Item>
+    <Item>
+      <Source>FeededVillus.png</Source>
+      <Name>FeededVillus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\FeededVillus.xnb</Output>
+      <Time>2016-11-29T19:06:11.7518542+09:00</Time>
+    </Item>
+    <Item>
+      <Source>FeedVillus.png</Source>
+      <Name>FeedVillus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\FeedVillus.xnb</Output>
+      <Time>2016-11-29T19:06:11.7518542+09:00</Time>
+    </Item>
+    <Item>
+      <Source>FeedVillus2.png</Source>
+      <Name>FeedVillus2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\FeedVillus2.xnb</Output>
+      <Time>2016-11-29T19:06:11.6112046+09:00</Time>
+    </Item>
+    <Item>
+      <Source>FoodAttack.png</Source>
+      <Name>FoodAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\FoodAttack.xnb</Output>
+      <Time>2016-11-29T19:06:11.6112046+09:00</Time>
+    </Item>
+    <Item>
+      <Source>GulletColorBackground.png</Source>
+      <Name>GulletColorBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\GulletColorBackground.xnb</Output>
+      <Time>2016-11-29T19:06:11.6112046+09:00</Time>
+    </Item>
+    <Item>
+      <Source>MeatAttack.png</Source>
+      <Name>MeatAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\MeatAttack.xnb</Output>
+      <Time>2016-11-29T19:06:11.6112046+09:00</Time>
+    </Item>
+    <Item>
+      <Source>MeatIdle.png</Source>
+      <Name>MeatIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\MeatIdle.xnb</Output>
+      <Time>2016-11-29T19:06:11.6112046+09:00</Time>
+    </Item>
+    <Item>
+      <Source>meatremain.png</Source>
+      <Name>meatremain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\meatremain.xnb</Output>
+      <Time>2016-11-29T19:06:11.6112046+09:00</Time>
+    </Item>
+    <Item>
+      <Source>mony.png</Source>
+      <Name>mony</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\mony.xnb</Output>
+      <Time>2016-11-29T19:06:11.6112046+09:00</Time>
+    </Item>
+    <Item>
+      <Source>MouthColorBackground.png</Source>
+      <Name>MouthColorBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\MouthColorBackground.xnb</Output>
+      <Time>2016-11-29T19:06:11.6112046+09:00</Time>
+    </Item>
+    <Item>
+      <Source>MouthTutorial1.png</Source>
+      <Name>MouthTutorial1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\MouthTutorial1.xnb</Output>
+      <Time>2016-11-29T19:06:11.6268475+09:00</Time>
+    </Item>
+    <Item>
+      <Source>MouthTutorial2.png</Source>
+      <Name>MouthTutorial2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\MouthTutorial2.xnb</Output>
+      <Time>2016-11-29T19:06:11.6268475+09:00</Time>
+    </Item>
+    <Item>
+      <Source>MouthTutorial3.png</Source>
+      <Name>MouthTutorial3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\MouthTutorial3.xnb</Output>
+      <Time>2016-11-29T19:06:11.6268475+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Nutrient.png</Source>
+      <Name>Nutrient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Nutrient.xnb</Output>
+      <Time>2016-11-29T19:06:11.6268475+09:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionButton.png</Source>
+      <Name>OptionButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\OptionButton.xnb</Output>
+      <Time>2016-11-29T19:06:11.6268475+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PauseBackground.png</Source>
+      <Name>PauseBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\PauseBackground.xnb</Output>
+      <Time>2016-11-29T19:06:11.6268475+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PressCursor.png</Source>
+      <Name>PressCursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\PressCursor.xnb</Output>
+      <Time>2016-11-29T19:06:11.6268475+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Remains.png</Source>
+      <Name>Remains</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Remains.xnb</Output>
+      <Time>2016-11-29T19:06:11.6268475+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SmallIntestineBackground.png</Source>
+      <Name>SmallIntestineBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\SmallIntestineBackground.xnb</Output>
+      <Time>2016-11-29T19:06:11.6268475+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SmallIntestineColorBackground.png</Source>
+      <Name>SmallIntestineColorBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\SmallIntestineColorBackground.xnb</Output>
+      <Time>2016-11-29T19:06:11.6424575+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SmallIntestineForeground.png</Source>
+      <Name>SmallIntestineForeground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\SmallIntestineForeground.xnb</Output>
+      <Time>2016-11-29T19:06:11.6424575+09:00</Time>
+    </Item>
+    <Item>
+      <Source>SpaceBarKey.png</Source>
+      <Name>SpaceBarKey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\SpaceBarKey.xnb</Output>
+      <Time>2016-11-29T19:06:11.6424575+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StartButton.png</Source>
+      <Name>StartButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\StartButton.xnb</Output>
+      <Time>2016-11-29T19:06:11.6424575+09:00</Time>
+    </Item>
+    <Item>
+      <Source>STORY1.png</Source>
+      <Name>STORY1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\STORY1.xnb</Output>
+      <Time>2016-11-29T19:06:11.6424575+09:00</Time>
+    </Item>
+    <Item>
+      <Source>STORY10.png</Source>
+      <Name>STORY10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\STORY10.xnb</Output>
+      <Time>2016-11-29T19:06:11.6580845+09:00</Time>
+    </Item>
+    <Item>
+      <Source>STORY11.png</Source>
+      <Name>STORY11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\STORY11.xnb</Output>
+      <Time>2016-11-29T19:06:11.6580845+09:00</Time>
+    </Item>
+    <Item>
+      <Source>STORY12.png</Source>
+      <Name>STORY12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\STORY12.xnb</Output>
+      <Time>2016-11-29T19:06:11.6580845+09:00</Time>
+    </Item>
+    <Item>
+      <Source>STORY13.png</Source>
+      <Name>STORY13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\STORY13.xnb</Output>
+      <Time>2016-11-29T19:06:11.6580845+09:00</Time>
+    </Item>
+    <Item>
+      <Source>STORY14.png</Source>
+      <Name>STORY14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\STORY14.xnb</Output>
+      <Time>2016-11-29T19:06:11.6737116+09:00</Time>
+    </Item>
+    <Item>
+      <Source>STORY15.png</Source>
+      <Name>STORY15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\STORY15.xnb</Output>
+      <Time>2016-11-29T19:06:11.6737116+09:00</Time>
+    </Item>
+    <Item>
+      <Source>STORY2.png</Source>
+      <Name>STORY2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\STORY2.xnb</Output>
+      <Time>2016-11-29T19:06:11.6424575+09:00</Time>
+    </Item>
+    <Item>
+      <Source>STORY4.png</Source>
+      <Name>STORY4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\STORY4.xnb</Output>
+      <Time>2016-11-29T19:06:11.6424575+09:00</Time>
+    </Item>
+    <Item>
+      <Source>STORY5.png</Source>
+      <Name>STORY5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\STORY5.xnb</Output>
+      <Time>2016-11-29T19:06:11.6424575+09:00</Time>
+    </Item>
+    <Item>
+      <Source>STORY6.png</Source>
+      <Name>STORY6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\STORY6.xnb</Output>
+      <Time>2016-11-29T19:06:11.6424575+09:00</Time>
+    </Item>
+    <Item>
+      <Source>STORY7.png</Source>
+      <Name>STORY7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\STORY7.xnb</Output>
+      <Time>2016-11-29T19:06:11.6580845+09:00</Time>
+    </Item>
+    <Item>
+      <Source>STORY8.png</Source>
+      <Name>STORY8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\STORY8.xnb</Output>
+      <Time>2016-11-29T19:06:11.6580845+09:00</Time>
+    </Item>
+    <Item>
+      <Source>STORY9.png</Source>
+      <Name>STORY9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\STORY9.xnb</Output>
+      <Time>2016-11-29T19:06:11.6580845+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TITLE1.png</Source>
+      <Name>TITLE1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\TITLE1.xnb</Output>
+      <Time>2016-11-29T19:06:11.6737116+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TITLE2.png</Source>
+      <Name>TITLE2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\TITLE2.xnb</Output>
+      <Time>2016-11-29T19:06:11.6737116+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Villus.png</Source>
+      <Name>Villus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Villus.xnb</Output>
+      <Time>2016-11-29T19:06:11.6737116+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Villus2.png</Source>
+      <Name>Villus2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\Villus2.xnb</Output>
+      <Time>2016-11-29T19:06:11.6737116+09:00</Time>
+    </Item>
+    <Item>
+      <Source>virus.png</Source>
+      <Name>virus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\virus.xnb</Output>
+      <Time>2016-11-29T19:06:11.6737116+09:00</Time>
+    </Item>
+    <Item>
+      <Source>간깜빡.png</Source>
+      <Name>간깜빡</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\간깜빡.xnb</Output>
+      <Time>2016-11-29T19:06:11.6737116+09:00</Time>
+    </Item>
+    <Item>
+      <Source>간쓸개.png</Source>
+      <Name>간쓸개</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\간쓸개.xnb</Output>
+      <Time>2016-11-29T19:06:11.6893391+09:00</Time>
+    </Item>
+    <Item>
+      <Source>간쓸개깜빡.png</Source>
+      <Name>간쓸개깜빡</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\간쓸개깜빡.xnb</Output>
+      <Time>2016-11-29T19:06:11.6893391+09:00</Time>
+    </Item>
+    <Item>
+      <Source>단백질.png</Source>
+      <Name>단백질</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\단백질.xnb</Output>
+      <Time>2016-11-29T19:06:11.6893391+09:00</Time>
+    </Item>
+    <Item>
+      <Source>단백질n.png</Source>
+      <Name>단백질n</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\단백질n.xnb</Output>
+      <Time>2016-11-29T19:06:11.6893391+09:00</Time>
+    </Item>
+    <Item>
+      <Source>똥찌꺼기100.png</Source>
+      <Name>똥찌꺼기100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\똥찌꺼기100.xnb</Output>
+      <Time>2016-11-29T19:06:11.6893391+09:00</Time>
+    </Item>
+    <Item>
+      <Source>똥찌꺼기99.png</Source>
+      <Name>똥찌꺼기99</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\똥찌꺼기99.xnb</Output>
+      <Time>2016-11-29T19:06:11.6893391+09:00</Time>
+    </Item>
+    <Item>
+      <Source>모니앞스프라이트.png</Source>
+      <Name>모니앞스프라이트</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\모니앞스프라이트.xnb</Output>
+      <Time>2016-11-29T19:06:11.6893391+09:00</Time>
+    </Item>
+    <Item>
+      <Source>모니옆스프라이트.png</Source>
+      <Name>모니옆스프라이트</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\모니옆스프라이트.xnb</Output>
+      <Time>2016-11-29T19:06:11.6893391+09:00</Time>
+    </Item>
+    <Item>
+      <Source>모니요정.png</Source>
+      <Name>모니요정</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\모니요정.xnb</Output>
+      <Time>2016-11-29T19:06:11.6893391+09:00</Time>
+    </Item>
+    <Item>
+      <Source>물대포.png</Source>
+      <Name>물대포</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\물대포.xnb</Output>
+      <Time>2016-11-29T19:06:11.6893391+09:00</Time>
+    </Item>
+    <Item>
+      <Source>배경.png</Source>
+      <Name>배경</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\배경.xnb</Output>
+      <Time>2016-11-29T19:06:11.6893391+09:00</Time>
+    </Item>
+    <Item>
+      <Source>빡.png</Source>
+      <Name>빡</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\빡.xnb</Output>
+      <Time>2016-11-29T19:06:11.7049649+09:00</Time>
+    </Item>
+    <Item>
+      <Source>상태창.png</Source>
+      <Name>상태창</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\상태창.xnb</Output>
+      <Time>2016-11-29T19:06:11.7049649+09:00</Time>
+    </Item>
+    <Item>
+      <Source>세균대왕.png</Source>
+      <Name>세균대왕</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\세균대왕.xnb</Output>
+      <Time>2016-11-29T19:06:11.7049649+09:00</Time>
+    </Item>
+    <Item>
+      <Source>십이지장맵.png</Source>
+      <Name>십이지장맵</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\십이지장맵.xnb</Output>
+      <Time>2016-11-29T19:06:11.7049649+09:00</Time>
+    </Item>
+    <Item>
+      <Source>십이지장줄.png</Source>
+      <Name>십이지장줄</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\십이지장줄.xnb</Output>
+      <Time>2016-11-29T19:06:11.7049649+09:00</Time>
+    </Item>
+    <Item>
+      <Source>오렌지원.png</Source>
+      <Name>오렌지원</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\오렌지원.xnb</Output>
+      <Time>2016-11-29T19:06:11.7049649+09:00</Time>
+    </Item>
+    <Item>
+      <Source>요술봉.png</Source>
+      <Name>요술봉</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\요술봉.xnb</Output>
+      <Time>2016-11-29T19:06:11.7049649+09:00</Time>
+    </Item>
+    <Item>
+      <Source>위.png</Source>
+      <Name>위</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\위.xnb</Output>
+      <Time>2016-11-29T19:06:11.7049649+09:00</Time>
+    </Item>
+    <Item>
+      <Source>위액.png</Source>
+      <Name>위액</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\위액.xnb</Output>
+      <Time>2016-11-29T19:06:11.7049649+09:00</Time>
+    </Item>
+    <Item>
+      <Source>위액2.png</Source>
+      <Name>위액2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\위액2.xnb</Output>
+      <Time>2016-11-29T19:06:11.7049649+09:00</Time>
+    </Item>
+    <Item>
+      <Source>이자깜빡.png</Source>
+      <Name>이자깜빡</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\이자깜빡.xnb</Output>
+      <Time>2016-11-29T19:06:11.7049649+09:00</Time>
+    </Item>
+    <Item>
+      <Source>입-배경.png</Source>
+      <Name>입-배경</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\입-배경.xnb</Output>
+      <Time>2016-11-29T19:06:11.720592+09:00</Time>
+    </Item>
+    <Item>
+      <Source>전체맵.png</Source>
+      <Name>전체맵</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\전체맵.xnb</Output>
+      <Time>2016-11-29T19:06:11.720592+09:00</Time>
+    </Item>
+    <Item>
+      <Source>전체맵배경.png</Source>
+      <Name>전체맵배경</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\전체맵배경.xnb</Output>
+      <Time>2016-11-29T19:06:11.720592+09:00</Time>
+    </Item>
+    <Item>
+      <Source>지방.png</Source>
+      <Name>지방</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\지방.xnb</Output>
+      <Time>2016-11-29T19:06:11.720592+09:00</Time>
+    </Item>
+    <Item>
+      <Source>지방n.png</Source>
+      <Name>지방n</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\지방n.xnb</Output>
+      <Time>2016-11-29T19:06:11.720592+09:00</Time>
+    </Item>
+    <Item>
+      <Source>지방한방.png</Source>
+      <Name>지방한방</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\지방한방.xnb</Output>
+      <Time>2016-11-29T19:06:11.720592+09:00</Time>
+    </Item>
+    <Item>
+      <Source>찌꺼기1.png</Source>
+      <Name>찌꺼기1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\찌꺼기1.xnb</Output>
+      <Time>2016-11-29T19:06:11.720592+09:00</Time>
+    </Item>
+    <Item>
+      <Source>찌꺼기2.png</Source>
+      <Name>찌꺼기2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\찌꺼기2.xnb</Output>
+      <Time>2016-11-29T19:06:11.720592+09:00</Time>
+    </Item>
+    <Item>
+      <Source>찌꺼기3.png</Source>
+      <Name>찌꺼기3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\찌꺼기3.xnb</Output>
+      <Time>2016-11-29T19:06:11.720592+09:00</Time>
+    </Item>
+    <Item>
+      <Source>총알.png</Source>
+      <Name>총알</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\총알.xnb</Output>
+      <Time>2016-11-29T19:06:11.720592+09:00</Time>
+    </Item>
+    <Item>
+      <Source>카메라.png</Source>
+      <Name>카메라</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\카메라.xnb</Output>
+      <Time>2016-11-29T19:06:11.720592+09:00</Time>
+    </Item>
+    <Item>
+      <Source>탄수화물.png</Source>
+      <Name>탄수화물</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\탄수화물.xnb</Output>
+      <Time>2016-11-29T19:06:11.720592+09:00</Time>
+    </Item>
+    <Item>
+      <Source>탄수화물n.png</Source>
+      <Name>탄수화물n</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\탄수화물n.xnb</Output>
+      <Time>2016-11-29T19:06:11.720592+09:00</Time>
+    </Item>
+    <Item>
+      <Source>하늘원.png</Source>
+      <Name>하늘원</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\하늘원.xnb</Output>
+      <Time>2016-11-29T19:06:11.7362186+09:00</Time>
+    </Item>
+    <Item>
+      <Source>노래\게임중.mp3</Source>
+      <Name>노래\게임중</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\게임중.xnb</Output>
+      <Extra>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\게임중.wma</Extra>
+      <Time>2016-11-29T19:05:19.2309248+09:00</Time>
+    </Item>
+    <Item>
+      <Source>노래\셀렉트모드.mp3</Source>
+      <Name>노래\셀렉트모드</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\셀렉트모드.xnb</Output>
+      <Extra>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\셀렉트모드.wma</Extra>
+      <Time>2016-11-29T19:05:19.2309248+09:00</Time>
+    </Item>
+    <Item>
+      <Source>노래\스토리모드.mp3</Source>
+      <Name>노래\스토리모드</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\스토리모드.xnb</Output>
+      <Extra>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\스토리모드.wma</Extra>
+      <Time>2016-11-29T19:05:19.2465642+09:00</Time>
+    </Item>
+    <Item>
+      <Source>노래\스티커판.mp3</Source>
+      <Name>노래\스티커판</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\스티커판.xnb</Output>
+      <Extra>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\스티커판.wma</Extra>
+      <Time>2016-11-29T19:05:19.2465642+09:00</Time>
+    </Item>
+    <Item>
+      <Source>노래\타이틀후보2.mp3</Source>
+      <Name>노래\타이틀후보2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\타이틀후보2.xnb</Output>
+      <Extra>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\타이틀후보2.wma</Extra>
+      <Time>2016-11-29T19:05:19.2153084+09:00</Time>
+    </Item>
+    <Item>
+      <Source>노래\튜토리얼모드.mp3</Source>
+      <Name>노래\튜토리얼모드</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\튜토리얼모드.xnb</Output>
+      <Extra>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\튜토리얼모드.wma</Extra>
+      <Time>2016-11-29T19:05:19.2309248+09:00</Time>
+    </Item>
+    <Item>
+      <Source>노래\튜토리얼실행.mp3</Source>
+      <Name>노래\튜토리얼실행</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\튜토리얼실행.xnb</Output>
+      <Extra>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\튜토리얼실행.wma</Extra>
+      <Time>2016-11-29T19:05:19.2309248+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\bgm.wma</Source>
+      <Name>식도\bgm</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\bgm.xnb</Output>
+      <Extra>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\bgm.wma</Extra>
+      <Time>2016-11-29T19:05:25.0965727+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\countdown.wav</Source>
+      <Name>식도\countdown</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\countdown.xnb</Output>
+      <Time>2016-11-29T19:05:25.1121998+09:00</Time>
+    </Item>
+    <Item>
+      <Source>버튼음.wav</Source>
+      <Name>버튼음</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\버튼음.xnb</Output>
+      <Time>2016-11-29T19:06:11.7049649+09:00</Time>
+    </Item>
+    <Item>
+      <Source>퐁.wav</Source>
+      <Name>퐁</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\퐁.xnb</Output>
+      <Time>2016-11-29T19:06:11.7362186+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\myFont.spritefont</Source>
+      <Name>식도\myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\myFont.xnb</Output>
+      <Time>2016-11-29T19:05:25.0809473+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\myFont2.spritefont</Source>
+      <Name>식도\myFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\myFont2.xnb</Output>
+      <Time>2016-11-29T19:05:25.0809473+09:00</Time>
+    </Item>
+    <Item>
+      <Source>식도\myFont3.spritefont</Source>
+      <Name>식도\myFont3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\식도\myFont3.xnb</Output>
+      <Time>2016-11-29T19:05:25.0965727+09:00</Time>
+    </Item>
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\kayla\documents\visual studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2016-11-29T19:06:11.6268475+09:00</Time>
+    </Item>
+    <Item>
+      <Source>GameThumbnail.png</Source>
+      <Name>GameThumbnail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kayla\Documents\Visual Studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\GameThumbnail.xnb</Output>
+      <Time>2016-11-29T19:12:31.7179893+09:00</Time>
+    </Item>
+    <Item>
+      <Source>노래\wrong.mp3</Source>
+      <Name>노래\wrong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kayla\Documents\Visual Studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\wrong.xnb</Output>
+      <Time>2016-11-29T19:05:19.2309248+09:00</Time>
+    </Item>
+    <Item>
+      <Source>노래\세균죽을때.mp3</Source>
+      <Name>노래\세균죽을때</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kayla\Documents\Visual Studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\세균죽을때.xnb</Output>
+      <Time>2016-11-29T19:05:19.2309248+09:00</Time>
+    </Item>
+    <Item>
+      <Source>노래\정답.mp3</Source>
+      <Name>노래\정답</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kayla\Documents\Visual Studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\정답.xnb</Output>
+      <Time>2016-11-29T19:05:19.2153084+09:00</Time>
+    </Item>
+    <Item>
+      <Source>노래\호루라기.mp3</Source>
+      <Name>노래\호루라기</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kayla\Documents\Visual Studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\호루라기.xnb</Output>
+      <Time>2016-11-29T19:05:19.2309248+09:00</Time>
+    </Item>
+    <Item>
+      <Source>노래\위뽀글.wma</Source>
+      <Name>노래\위뽀글</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kayla\Documents\Visual Studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\노래\위뽀글.xnb</Output>
+      <Time>2016-11-29T19:05:19.2465642+09:00</Time>
+    </Item>
+    <Item>
+      <Source>입\입_슝.wma</Source>
+      <Name>입\입_슝</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kayla\Documents\Visual Studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\입\입_슝.xnb</Output>
+      <Time>2016-11-29T19:05:30.7906898+09:00</Time>
+    </Item>
+    <Item>
+      <Source>입\입_아그작.wma</Source>
+      <Name>입\입_아그작</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kayla\Documents\Visual Studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\입\입_아그작.xnb</Output>
+      <Time>2016-11-29T19:05:30.7906898+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{21E9C3B5-B527-4CDB-B84D-D08BBA02C6D2}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Kayla\Documents\Visual Studio 2013\Projects\DigestLand\DigestLand\DigestLandContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kayla\Documents\Visual Studio 2013\Projects\DigestLand\DigestLand\DigestLand\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kayla\Documents\Visual Studio 2013\Projects\DigestLand\DigestLand\DigestLand\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kayla\Documents\Visual Studio 2013\Projects\DigestLand\DigestLand\DigestLand\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-11-29T18:35:29.9895821+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
